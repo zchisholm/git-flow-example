@@ -1,0 +1,17 @@
+{
+    "name": "Basic Ubuntu with git and vim",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".",
+        "args": {}
+    },
+    "customizations":{
+        "vscode": {
+            "extensions": [],
+            "settings": {}
+        }
+    },
+    "forwardPorts": [],
+    "postCreateCommand": "",
+    "remoteUser": "root"
+}
