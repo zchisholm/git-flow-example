@@ -13,5 +13,9 @@
     },
     "forwardPorts": [],
     "postCreateCommand": "",
+    "postAttachCommand": [
+        "rm ~/.gitconfig",
+        "git config --global --add safe.directory /workspaces/git-basics-example",
+    ],
     "remoteUser": "root"
 }
