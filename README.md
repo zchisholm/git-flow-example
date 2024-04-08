@@ -1,6 +1,6 @@
 # git-basics-example
 
-The purpose of this repository is to show off the git flow for use in @kfcampbell's _git basics" demonstration.
+The purpose of this repository is to show off the git flow for use in @kfcampbell's "git basics" demonstration.
 
 ## Usage
 
