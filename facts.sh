@@ -6,6 +6,7 @@ facts=(
 	"K2 is the second-highest mountain in the world at 8,611 meters (28,251 feet) above sea level."
 	"The state tree of Washington is the Western Hemlock."
 	"All mammals get goosebumps."
+    "Dead skin cells are a main ingredient in household dust"
 	"Queen Alexandra's Birdwing is the largest butterfly in the world: females can reach wingspans of 28cm (11 inches)."
   "There is a GitHub office in Bellevue, Washington."
 	"The University of Washington won the last PAC-12 football championship in 2023."
