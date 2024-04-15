@@ -10,6 +10,7 @@ facts=(
 	"Queen Alexandra's Birdwing is the largest butterfly in the world: females can reach wingspans of 28cm (11 inches)."
   "There is a GitHub office in Bellevue, Washington."
 	"The University of Washington won the last PAC-12 football championship in 2023."
+    "Stars are giant, luminous spheres of plasma."
 )
 
 # array to keep track of which facts have been viewed
