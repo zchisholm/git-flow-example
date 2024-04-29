@@ -11,6 +11,7 @@ facts=(
   "There is a GitHub office in Bellevue, Washington."
 	"The University of Washington won the last PAC-12 football championship in 2023."
     "Stars are giant, luminous spheres of plasma."
+    "Soccer balls were once used to play basketball."
 )
 
 # array to keep track of which facts have been viewed
