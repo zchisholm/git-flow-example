@@ -1,6 +1,6 @@
 # git-flow-example
 
-The purpose of this repository is to show off the git flow for use in @kfcampbell's "git basics" demonstration.
+The purpose of this repository is to show off the basics of merging a pull request for the git flow presentation.
 
 ## Usage
 
